@@ -5,7 +5,7 @@ Data Science and Machine Learning Enthusiast
 --------------------------------------------
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [dheerajmahapatra2029@gmail.com](mailto:dheerajmahapatra2029@gmail.com)
+* ✉️  You can contact me at [dheeraj.mahapatra.ds@gmail.com](mailto:dheerajmahapatra2029@gmail.com)
 * 🧠  I'm currently learning Data Science and Machine Learning
 * ⚡  Snacks Coder
 
