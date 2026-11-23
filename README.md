@@ -1,4 +1,4 @@
-Hello👋 My self Dheeraj Mahapatra
+Hello👋 My name is Dheeraj Mahapatra
 =========================================================================================================================================
 
 Data Science and Machine Learning Enthusiast
